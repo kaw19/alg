@@ -1,2 +1,2 @@
-# alg
-Portugol Algorithms Examples
+# Algorithms
+Portugol Algorithms Examples (using VisualG)
