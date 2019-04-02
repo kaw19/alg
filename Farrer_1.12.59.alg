@@ -1,5 +1,5 @@
 algoritmo "Farrer_1_12_59"
-// Função: Cálculo da integral da função 4/(1+x^2) de 0 a 1.
+// FunÃ§Ã£o: CÃ¡lculo da integral da funÃ§Ã£o 4/(1+x^2) de 0 a 1.
 // Autor : Prof. Kaw
 // Data  : 28/03/2019
 var
@@ -11,10 +11,10 @@ var
   fimfuncao
   
 inicio
-  N <- 10000              // qtde de trapézios
+  N <- 10000              // qtde de trapÃ©zios
   B <- 1
   A <- 0
-  H <- (B - A)/N         // base do trapézio
+  H <- (B - A)/N         // base do trapÃ©zio
   SOMA <- 0
   para I de 1 ate N faca
     //escreval(f(H*I):5:2)
